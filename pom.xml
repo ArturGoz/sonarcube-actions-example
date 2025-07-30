@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.10.0</junit.version>
         <lombok.version>1.18.32</lombok.version>
-        <sonar.projectKey>ArturGoz_gym-crm-application</sonar.projectKey> <!--paste your project name-->
+        <sonar.projectKey>ArturGoz_sonarcube-actions-example</sonar.projectKey> <!--paste your project name-->
         <sonar.organization>arturgoz</sonar.organization> <!--paste your organization name-->
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
