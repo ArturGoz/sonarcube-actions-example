@@ -23,7 +23,7 @@
 3. analyze your new project
 <img width="482" height="338" alt="зображення" src="https://github.com/user-attachments/assets/c8cc2879-d372-494d-91e3-829496667eed" />
 
-4. go your project click "Adminisration" and choose "Analysis Method" and turn off Automtic Analysis
+4. go to your project in sonar cloud click "Adminisration" and choose "Analysis Method" and turn off Automtic Analysis
 5. go to "My Account" and choose "Security" 
 6. give any name to your token and generate it
 7. after generation copy hashed token and save somewhere
@@ -33,5 +33,5 @@
 11. build plugins https://github.com/ArturGoz/sonarcube-actions-example/blob/main/pom.xml#L66-L94
 12. add your properties https://github.com/ArturGoz/sonarcube-actions-example/blob/main/pom.xml#L17-L19
 13. add config https://github.com/ArturGoz/sonarcube-actions-example/blob/main/.github/workflows/ci.yml#L31-L39
-14. push changes to github and check if chech actions started with all needs
+14. push changes to github and check if check actions started with all needs
 
